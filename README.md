@@ -1,0 +1,3 @@
+- First Install Chocolatety from [here](https://chocolatey.org/install)
+- After installation RUN this command on PowerShell and Install All Packages 
+- choco install packages.config
